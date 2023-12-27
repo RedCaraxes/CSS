@@ -1,3 +1,9 @@
+*{/*Selector universal*/
+    background-color: white;
+    color: cornflowerblue;
+
+}
+
 #titulo{ /*Selectores ID se aplican solo a un elemento osea es unico en la pagina*/ 
     color: crimson;
     text-align: center;
