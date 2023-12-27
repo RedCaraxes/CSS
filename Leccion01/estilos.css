@@ -2,3 +2,9 @@
     color: crimson;
     text-align: center;
 }
+.centrar{ /*Clase, se puede aplicar a varios elementos*/
+    text-align: center;
+}
+.texto_grande{
+    font-size: 20px;
+}
