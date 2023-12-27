@@ -2,14 +2,15 @@ h1{
     text-align: center;
 }
 .rojo{
-    background-color: firebrick;
+    /*background-color: firebrick;*/
+    border: 10px solid firebrick
 }
 .rosa{
-    background-color: hotpink;
+    border: 10px dashed hotpink;
 }
 .amarillo{
-    background-color: gold;
+    border: 10px double gold;
 }
 .azul{
-    background-color: blue;
+    border: 10px dotted blue;
 }
