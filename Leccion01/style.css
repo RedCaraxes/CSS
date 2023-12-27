@@ -1,4 +1,7 @@
-h1,h2,p{
+/* h1,h2,p{
     color: crimson;
+    text-align: center;
+}*/
+p.centrat{
     text-align: center;
 }
