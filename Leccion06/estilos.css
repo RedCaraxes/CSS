@@ -1,0 +1,28 @@
+h1{
+    color: #ef476f;
+    background-color: beige;
+    text-align: center;
+    text-transform: uppercase; /*transformar text ejemplo mayusculas*/
+    text-shadow: 2px 2px 2px #ced4da; /*sombra alrededor de las letras*/
+    letter-spacing: 3px;/*espaciado de caracteres individuales*/
+    word-spacing: 10px;/*separar palabras*/
+    text-decoration: overline underline;
+}
+.caja{
+    padding: 15px;
+    margin: auto; /*centrado del elemento*/
+    width: 80%;
+    background-color: #219ebc;
+    border-radius: 5px;
+    color: white;
+}
+.texto{
+    text-align: justify;
+    /*direction: rtl; --lectura de derecha a izquierda*/ 
+    text-decoration: none; /*valor por defecto en links es underline, en textos es none*/
+    text-indent: 30px;/*identacion al comenzar texto*/
+    line-height: 1.2;/*espacio entre lineas*/
+    white-space: normal;
+    text-shadow: 1px 1px 2px #ced4da;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
